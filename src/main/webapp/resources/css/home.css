@@ -483,6 +483,12 @@ body {
 	padding: 7px 21px;
 }
 
+.checkAdmin {
+	padding: 11px 16px;
+	margin-left: 12px;
+	margin-top:10px;
+}
+
 .btnLogin:hover,.btnLogin:focus,.btnLogin:active {
 	background: #a1d8f0;
 	background: -moz-linear-gradient(top, #7acbed, #badff3);
